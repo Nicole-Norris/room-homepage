@@ -37,4 +37,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Nicole-Norris](https://www.frontendmentor.io/profile/Nicole-Norris)
-- Twitter - [@Nicole*Norris*](https://twitter.com/Nicole_Norris_)
+- Twitter - [@Nicole_Norris_](https://twitter.com/Nicole_Norris_)
